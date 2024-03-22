@@ -1,0 +1,16 @@
+{
+  "name": "impeditducimus",
+  "version": "1.0.0",
+  "description": "Provides my TypeScript configuration.",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JudsonGislason/impeditducimus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JudsonGislason/impeditducimus.git/issues"
+  },
+  "homepage": "https://github.com/JudsonGislason/impeditducimus.git",
+  "author": "ErnaLind",
+  "license": "ISC"
+}
